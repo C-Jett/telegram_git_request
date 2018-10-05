@@ -1,0 +1,5 @@
+package botpackage
+
+class shaFile {
+
+}
